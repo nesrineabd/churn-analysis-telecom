@@ -6,7 +6,8 @@ Churn in business refers to how many customers leave a company within a timefram
 
 In this project, our objectives are to:
 
-- Analyze and identify patterns among customers who churn by examining common services or characteristics they share, which will be achieved through an Exploratory Data Analysis (EDA).
+- Analyze and identify patterns among customers who churn by looking at common services or characteristics, using Exploratory Data Analysis (EDA).
+- Provide a comprehensive set of graphs and charts that visualize the data, accompanied by clear interpretations to highlight significant trends and support deeper understanding.
 - Implement and evaluate various machine learning models to predict churn rates.
 - Extract key findings and actionable insights from data analysis, enabling the business to implement targeted customer retention strategies and reduce this rates.
 
